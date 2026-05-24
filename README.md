@@ -8,7 +8,7 @@ A modern, responsive, and student-friendly web application designed to solve mat
 
 ## Live Preview
 
-https://github.com/nikhil-mca-code/web-dev-projects.git
+https://github.com/nikhil-mca-code/web-dev-projects
 
 ---
 
@@ -95,11 +95,11 @@ Add screenshots here.
 Example:
 
 ```md
-### Home Screen
-<img src="assets/screenshots/home.png" width="850">
+### Home Screen Light Preview
+<img src="assets/light.png" width="350">
 
-### Matrix Operations
-<img src="assets/screenshots/operations.png" width="850">
+### Dark Preview
+<img src="assets/dark.png" width="350">
 ```
 
 ---
