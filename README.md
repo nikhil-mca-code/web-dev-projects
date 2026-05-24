@@ -90,17 +90,14 @@ matrix-calculator-pro/
 
 ## Screenshots
 
-Add screenshots here.
+### Home Light\Dark Theme Preview
+<p>
+  <img src="assets/light.png" width="550" alt="Light Mode">
+  </p>
+<p>
+  <img src="assets/dark.png" width="550" alt="Dark Mode">
+</p>
 
-Example:
-
-```md
-### Home Screen Light Preview
-<img src="assets/light.png" width="350">
-
-### Dark Preview
-<img src="assets/dark.png" width="350">
-```
 
 ---
 
