@@ -138,7 +138,7 @@ This project was built to explore:
 
 ## Author
 
-**Nikhil**
+**Nikhil Singh**
 
 Designed and developed as a frontend mathematical web application project.
 
